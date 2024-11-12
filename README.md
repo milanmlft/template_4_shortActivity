@@ -1,22 +1,20 @@
-# template_4_shortActivity (Replace for Course Title)
-
-### Course Title
+# Your guide to creating reproducible training material
 
 ### Contributors
 
 |  |  |
 |--|--|
-|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name | ![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0000-0000-0000) Author Name |
+|[![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0002-3246-7604) Yasmin Demerdash | [![ORCID](https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/images/logos/32px-ORCID_iD.svg.png)](https://orcid.org/0000-0001-9144-3701) Milan Malfait |
 
 ### About this course
 
-This course .... Add a general description
+This course will teach you how to create reproducible teaching material.
 
 ### Material license
 
 <img src="https://raw.githubusercontent.com/vibbits/rdm-course-2022/main/images/logos/CC-by.png" title="" alt="" width="143">
 
-[**CC-BY**](https://creativecommons.org/licenses/by/4.0/)
+[**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 > **Soon suggestion on how to make the citation.**
 
